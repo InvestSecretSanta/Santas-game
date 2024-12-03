@@ -27,3 +27,4 @@ banner.addEventListener('click', () => {
     // Optionally, stop further movement after catching
     banner.removeEventListener('mouseover', moveBanner);
 });
+ 
