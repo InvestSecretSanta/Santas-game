@@ -1,7 +1,7 @@
 const banner = document.getElementById('banner');
 
 // Counter for remaining movements
-let movesLeft = 25; // Allow 10 movements
+let movesLeft = 15; // Allow 10 movements
 
 // Function to move the banner
 function moveBanner() {
